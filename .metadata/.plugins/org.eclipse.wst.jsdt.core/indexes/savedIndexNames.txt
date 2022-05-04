@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\tauri\Documents\Haaga-Helia kurssit\Ohjelmointi 2\Viikko 5\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1829889556.index
+4026977365.index
+2147764555.index
+3336877202.index
+280025602.index
+1267277734.index
+351747552.index

@@ -1,0 +1,11 @@
+127.0.0.1 - - [28/Apr/2022:20:03:04 +0300] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [28/Apr/2022:20:03:40 +0300] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:08 +0300] "GET /Viikko5/WEB-INF/classes/control/Asiakkaat.java HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:09 +0300] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:22 +0300] "GET /Viikko5/asiakkaat HTTP/1.1" 200 802
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:27 +0300] "GET /Viikko5/listaaasiakkaat HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:39 +0300] "GET /Viikko5/listaaasiakkaat.jsp HTTP/1.1" 200 1774
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:39 +0300] "GET /Viikko5/css/main.css HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:39 +0300] "GET /Viikko5/asiakkaat/ HTTP/1.1" 200 802
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:46 +0300] "GET /Viikko5/asiakkaat/Sirkka HTTP/1.1" 200 131
+0:0:0:0:0:0:0:1 - - [28/Apr/2022:20:04:51 +0300] "GET /Viikko5/asiakkaat/Pe HTTP/1.1" 200 470
